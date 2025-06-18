@@ -1,0 +1,4 @@
+Appointment ID: 3
+Date: 2025-06-19 | Time: 09:30 AM - 10:00 AM | Status: Confirmed
+Patient Name: Karan Patel | Age: 42 | Gender: Male | Contact: 9998887776 | Address: Ahmedabad, India
+--------------------------------------
